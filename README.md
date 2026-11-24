@@ -2,7 +2,7 @@
 
 <img src="web/public/logo.svg" width="84" alt="ARTEX logo" />
 
-# ARTEX
+# XIPPI
 
 **Autonomous penetration testing that keeps its receipts.**
 
